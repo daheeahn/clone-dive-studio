@@ -32,3 +32,163 @@ nav > ul > li > a {
 nav > a {
   vertical-align: middle;
 }
+
+header {
+  height: 650px;
+  background-color: rgb(44, 86, 51);
+  border-bottom-left-radius: 55px;
+  border-bottom-right-radius: 55px;
+}
+
+.featured-in-container {
+  margin-top: 50px;
+}
+
+.featured-in-title {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.featured-brands-container {
+  margin: 0px 50px 100px 50px;
+  background-color: #c19393;
+}
+
+.partners-container {
+  padding: 0px 145px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.partners-left,
+.partners-right {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.partners-left {
+  margin-right: 30px;
+}
+.partners-right {
+  align-self: center;
+}
+
+.partners-title {
+  color: #00a84f;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.partners-heading {
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.partners-row {
+  padding-bottom: 20px;
+}
+.partners-column {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0px 20px;
+}
+.partner-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
+.partner-name-text {
+  margin-top: 8px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.section-header-container {
+  margin-bottom: 45px;
+}
+.section-main-header {
+  font-size: 40px;
+  color: white;
+}
+.section-sub-header {
+  font-size: 23px;
+  color: white;
+  margin-top: 10px;
+}
+
+.celebrity-mindsets-container {
+  text-align: center;
+  margin-bottom: 150px;
+}
+.celebrity-card-list-row {
+  margin-bottom: 10px;
+}
+.celebrity-card-list-item {
+  display: inline-block;
+  position: relative;
+  border-radius: 50px;
+  width: 150px;
+  height: 225px;
+  margin: 0px 5px;
+}
+.celebrity-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.celebrity-card-name-text {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: transparent;
+}
+.celebrity-card-episode-text {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  color: white;
+  font-size: 14px;
+  background-color: transparent;
+}
+
+.what-is-mindset-container {
+  padding: 0px 145px;
+  /* text-align: center; */
+  margin-bottom: 80px;
+}
+
+.what-is-mindset-main-header {
+  color: #00a84f;
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.what-is-mindset-sub-header-paragraph {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.what-is-mindset-left,
+.what-is-mindset-right {
+  display: inline-block;
+}
+
+.mindset-features-container {
+  text-align: center;
+}
+
+footer {
+  height: 500px;
+  background-color: #3f7759;
+}
