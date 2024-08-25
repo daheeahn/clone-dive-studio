@@ -400,5 +400,96 @@ header {
 }
 
 footer {
-  height: 500px;
+  height: 300px;
+  background-color: #245046;
+}
+
+footer > .info-container {
+  background-color: #245046;
+  width: 100%;
+  padding: 50px 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer > .info-container > .left-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #245046;
+}
+footer > .info-container > .left-container > .logo {
+  width: 160px;
+  height: 45px;
+  margin-bottom: 15px;
+  background-color: #245046;
+}
+footer > .info-container > .left-container > .app-store {
+  width: 130px;
+  height: 40px;
+  margin-bottom: 10px;
+  background-color: #245046;
+}
+footer > .info-container > .left-container > .google-play {
+  width: 125px;
+  height: 40px;
+  background-color: #245046;
+}
+
+footer > .info-container > .right-container {
+  display: grid;
+  grid-template-columns: 220px 220px 220px;
+  grid-template-rows: 50px 50px 50px 50px;
+  background-color: #245046;
+}
+
+footer > .info-container > .right-container > .grid-item {
+  background-color: #245046;
+}
+footer > .info-container > .right-container > .menu-item:nth-child(10) {
+}
+footer > .info-container > .right-container .menu-category {
+  color: #fff;
+  font-weight: bold;
+  font-size: 22px;
+}
+footer > .info-container > .right-container .menu-item {
+}
+footer > .info-container > .right-container .menu-item a {
+  background-color: #245046;
+  color: #fff;
+  font-size: 17px;
+}
+
+footer > .info-container > .right-container .sns-container {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+footer > .info-container > .right-container .sns-item {
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  background-color: #245046;
+}
+footer > .division-container {
+  height: 1.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #245046;
+}
+footer > .division-container > .division {
+  width: 95%;
+  height: 0.5px;
+  background-color: #b3c6b8;
+}
+footer > .copyright-text {
+  color: #fff;
+  font-size: 14px;
+  background-color: #245046;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
