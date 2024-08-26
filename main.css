@@ -50,13 +50,11 @@ header .linear-gradient-container .left-container {
   flex-direction: column;
   flex: 1;
   justify-content: center;
-  background-color: transparent;
 }
 header .linear-gradient-container .left-container .title {
   font-size: 32px;
   font-weight: bold;
   color: #fff;
-  background-color: transparent;
   margin-bottom: 20px;
   margin-left: 8px;
   font-family: "Trebuchet MS", sans-serif;
@@ -64,20 +62,17 @@ header .linear-gradient-container .left-container .title {
 header .linear-gradient-container .left-container .content {
   font-size: 16px;
   color: #fff;
-  background-color: transparent;
   margin-bottom: 40px;
   margin-left: 8px;
 }
 header .linear-gradient-container .left-container .store-platform-container {
   display: flex;
   flex-direction: row;
-  background-color: transparent;
 }
 header .linear-gradient-container .right-container {
   display: flex;
   flex-direction: column;
   flex: 1;
-  background-color: transparent;
 }
 header .linear-gradient-container .right-container img {
   width: 640px;
@@ -89,12 +84,10 @@ header .app-store {
   width: 130px;
   height: 40px;
   margin-right: 10px;
-  background-color: transparent;
 }
 header .google-play {
   width: 125px;
   height: 40px;
-  background-color: transparent;
 }
 
 .featured-in-container {
@@ -218,7 +211,6 @@ header .google-play {
   color: white;
   font-size: 20px;
   font-weight: bold;
-  background-color: transparent;
 }
 .celebrity-card-episode-text {
   position: absolute;
@@ -226,7 +218,6 @@ header .google-play {
   width: 100%;
   color: white;
   font-size: 14px;
-  background-color: transparent;
 }
 
 .what-is-mindset-container {
@@ -344,32 +335,27 @@ header .google-play {
 }
 .star-container {
   margin-bottom: 10px;
-  background-color: #ebebeb;
 }
 .star {
   width: 15px;
   height: 15px;
   margin-right: 7px;
-  background-color: #ebebeb;
 }
 .review-title {
   color: #000;
   font-size: 20px;
-  background-color: #ebebeb;
   margin-bottom: 10px;
   font-weight: bold;
 }
 .review-content {
   color: #245046;
   font-size: 14px;
-  background-color: #ebebeb;
   line-height: 25px;
 }
 .reviewer-container {
   display: flex;
   flex-direction: row;
   align-items: center;
-  background-color: #ebebeb;
   position: absolute;
   bottom: 20px;
 }
@@ -384,7 +370,6 @@ header .google-play {
   font-size: 20px;
   color: #245046;
   margin-left: 12px;
-  background-color: #ebebeb;
   font-weight: bold;
 }
 
@@ -470,7 +455,6 @@ footer {
 }
 
 footer > .info-container {
-  background-color: #245046;
   width: 100%;
   padding: 50px 200px;
   display: flex;
@@ -481,35 +465,29 @@ footer > .info-container {
 footer > .info-container > .left-container {
   display: flex;
   flex-direction: column;
-  background-color: #245046;
 }
 footer > .info-container > .left-container > .logo {
   width: 160px;
   height: 45px;
   margin-bottom: 15px;
-  background-color: #245046;
 }
 footer > .info-container > .left-container > .app-store {
   width: 130px;
   height: 40px;
   margin-bottom: 10px;
-  background-color: #245046;
 }
 footer > .info-container > .left-container > .google-play {
   width: 125px;
   height: 40px;
-  background-color: #245046;
 }
 
 footer > .info-container > .right-container {
   display: grid;
   grid-template-columns: 220px 220px 220px;
   grid-template-rows: 50px 50px 50px 50px;
-  background-color: #245046;
 }
 
 footer > .info-container > .right-container > .grid-item {
-  background-color: #245046;
 }
 footer > .info-container > .right-container .menu-category {
   color: #fff;
@@ -519,7 +497,6 @@ footer > .info-container > .right-container .menu-category {
 footer > .info-container > .right-container .menu-item {
 }
 footer > .info-container > .right-container .menu-item a {
-  background-color: #245046;
   color: #fff;
   font-size: 17px;
 }
@@ -533,14 +510,12 @@ footer > .info-container > .right-container .sns-item {
   width: 30px;
   height: 30px;
   color: #fff;
-  background-color: #245046;
 }
 footer > .division-container {
   height: 1.5px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #245046;
 }
 footer > .division-container > .division {
   width: 95%;
@@ -550,7 +525,6 @@ footer > .division-container > .division {
 footer > .copyright-text {
   color: #fff;
   font-size: 14px;
-  background-color: #245046;
   padding: 10px;
   display: flex;
   flex-direction: column;
