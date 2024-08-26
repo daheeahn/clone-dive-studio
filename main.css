@@ -90,6 +90,20 @@ header .google-play {
   height: 40px;
 }
 
+/* .section-main-header { */
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+/* .explanation-main-header */
+h2 {
+  color: #00a84f;
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 .featured-in-container {
   margin-top: 50px;
 }
@@ -174,10 +188,6 @@ header .google-play {
   align-items: center;
   margin-bottom: 45px;
 }
-.section-main-header {
-  font-size: 40px;
-  color: white;
-}
 .section-sub-header {
   font-size: 23px;
   color: white;
@@ -227,12 +237,6 @@ header .google-play {
   margin-bottom: 80px;
 }
 
-.explanation-main-header {
-  color: #00a84f;
-  font-size: 34px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
 .explanation-sub-header-paragraph {
   color: #fff;
   font-size: 18px;
