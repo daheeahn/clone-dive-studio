@@ -4,12 +4,10 @@
   padding: 0;
   text-decoration: none;
   list-style: none;
-  background-color: black;
 }
 
 nav {
   padding: 10px 90px;
-  /* background-color: rgb(147, 205, 157); */
 }
 
 nav ul,
@@ -33,11 +31,70 @@ nav > a {
   vertical-align: middle;
 }
 
-header {
-  height: 650px;
-  background-color: rgb(44, 86, 51);
+header .linear-gradient-container {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 80px;
+  height: 500px;
   border-bottom-left-radius: 55px;
   border-bottom-right-radius: 55px;
+  background-image: linear-gradient(
+    to right,
+    #7abfab 0%,
+    #2d6450 30%,
+    #3c7155 70%
+  );
+}
+header .linear-gradient-container .left-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  background-color: transparent;
+}
+header .linear-gradient-container .left-container .title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  background-color: transparent;
+  margin-bottom: 20px;
+  margin-left: 8px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+header .linear-gradient-container .left-container .content {
+  font-size: 16px;
+  color: #fff;
+  background-color: transparent;
+  margin-bottom: 40px;
+  margin-left: 8px;
+}
+header .linear-gradient-container .left-container .store-platform-container {
+  display: flex;
+  flex-direction: row;
+  background-color: transparent;
+}
+header .linear-gradient-container .right-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background-color: transparent;
+}
+header .linear-gradient-container .right-container img {
+  width: 640px;
+  height: 500px;
+  overflow: hidden;
+}
+
+header .app-store {
+  width: 130px;
+  height: 40px;
+  margin-right: 10px;
+  background-color: transparent;
+}
+header .google-play {
+  width: 125px;
+  height: 40px;
+  background-color: transparent;
 }
 
 .featured-in-container {
@@ -48,6 +105,7 @@ header {
   font-size: 18px;
   text-align: center;
   margin-bottom: 20px;
+  font-family: "Trebuchet MS", sans-serif;
 }
 .featured-in-container > .brand-container {
   display: flex;
@@ -86,14 +144,16 @@ header {
   font-weight: bold;
   margin-bottom: 5px;
   text-align: left;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 .partners-heading {
   color: #fff;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   text-align: left;
   margin-bottom: 15px;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 .partners-row {
@@ -450,8 +510,6 @@ footer > .info-container > .right-container {
 
 footer > .info-container > .right-container > .grid-item {
   background-color: #245046;
-}
-footer > .info-container > .right-container > .menu-item:nth-child(10) {
 }
 footer > .info-container > .right-container .menu-category {
   color: #fff;
