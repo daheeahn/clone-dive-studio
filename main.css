@@ -454,6 +454,7 @@ footer > .info-container {
 footer > .info-container > .left-container {
   display: flex;
   flex-direction: column;
+  margin-right: 40px;
 }
 footer > .info-container > .left-container > .logo {
   width: 160px;
