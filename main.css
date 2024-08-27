@@ -486,6 +486,7 @@ footer > .info-container > .right-container {
   display: grid;
   grid-template-columns: 220px 220px 220px;
   grid-template-rows: 50px 50px 50px 50px;
+  gap: 5px;
 }
 
 footer > .info-container > .right-container > .grid-item {
