@@ -129,14 +129,14 @@ h2 {
 
 .partners-container {
   padding: 0px 145px;
-  text-align: center;
   margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
 }
 
 .partners-left,
 .partners-right {
-  display: inline-block;
-  vertical-align: top;
+  flex: 1;
 }
 
 .partners-left {
@@ -233,6 +233,8 @@ h2 {
 
 .what-is-mindset-right {
   float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 .mindset-features-container {
