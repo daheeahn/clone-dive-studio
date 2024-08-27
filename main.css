@@ -164,13 +164,17 @@ h2 {
   font-family: "Trebuchet MS", sans-serif;
 }
 
-.partners-row {
-  padding-bottom: 20px;
+.partners-grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 140px);
+  grid-template-rows: repeat(2, 150px);
+  gap: 10px;
 }
-.partners-column {
-  display: inline-block;
-  vertical-align: top;
-  padding: 0px 20px;
+.partners-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .partner-img {
   width: 100px;
@@ -178,7 +182,7 @@ h2 {
   border-radius: 100px;
 }
 .partner-name-text {
-  margin-top: 8px;
+  margin-top: 10px;
   color: #fff;
   font-size: 16px;
 }
