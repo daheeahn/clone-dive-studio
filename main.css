@@ -278,6 +278,7 @@ h2 {
 .mockup-container-img-part {
   display: flex;
   flex: 1;
+  margin: 0px 20px;
 }
 
 .try-free-container {
