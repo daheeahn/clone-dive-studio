@@ -6,6 +6,7 @@
   list-style: none;
 }
 
+/* Navigation */
 nav {
   padding: 10px 90px;
 }
@@ -31,6 +32,7 @@ nav > a {
   vertical-align: middle;
 }
 
+/* Header */
 header .linear-gradient-container {
   display: flex;
   flex-direction: row;
@@ -43,7 +45,7 @@ header .linear-gradient-container {
     #7abfab 0%,
     #2d6450 30%,
     #3c7155 70%
-  );
+  ); /* Gradient flows to the right, Light color starts,  Dark color ends */
 }
 header .linear-gradient-container .left-container {
   display: flex;
