@@ -350,6 +350,8 @@ h2 {
   color: #245046;
   font-size: 14px;
   line-height: 25px;
+  margin-bottom: 60px;
+  overflow: scroll;
 }
 .reviewer-container {
   display: flex;
