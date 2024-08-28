@@ -15,7 +15,18 @@
 ## Core Focus: HTML & CSS Layout Design
 
 - In this project, you can see how I applied the basics of HTML and CSS. It wasn't built to be responsive, as I focused primarily on creating the layout.
-- ✅And you can see the details of the CSS I used through [🔗this link(To be added)](). Please check it out!
+  - HTML5 Boilerplate
+  - Multi-Page Navigation
+  - Block/Inline/Inline-Block Elements
+  - CSS Type/Class/Id Selectors
+  - CSS Box Model
+  - Basic CSS Properties
+  - Pseudo-Classes & Links
+  - Floats
+  - Flexbox Container
+  - Flexbox Items
+  - Grid
+- ✅You can also see the details of the CSS I used through [🔗this link(To be added)](). Please check it out!
 
 # Preview
 
@@ -26,7 +37,7 @@
 <img src="./assets/preview/main-1.png" alt="Project Preview" width="800" height="350">
 <img src="./assets/preview/main-2.png" alt="Project Preview" width="800" height="300">
 <img src="./assets/preview/main-3.png" alt="Project Preview" width="800" height="300">
-<img src="./assets/preview/main-4.png" alt="Project Preview" width="800" height="350">
+<img src="./assets/preview/main-4.png" alt="Project Preview" width="800" height="420">
 <img src="./assets/preview/main-5.png" alt="Project Preview" width="800" height="300">
 <img src="./assets/preview/main-6.png" alt="Project Preview" width="800" height="300">
 <img src="./assets/preview/main-7.png" alt="Project Preview" width="800" height="300">
