@@ -5,3 +5,99 @@
   text-decoration: none;
   list-style: none;
 }
+
+#logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+  background-color: #fff;
+}
+#dive-studio-logo {
+  width: 160px;
+  height: 70px;
+  margin-top: 15px;
+}
+#green-vertical-division {
+  width: 4px;
+  height: 50px;
+  background-color: #5fb072;
+  margin: 0px 25px;
+}
+#mindset-logo {
+  width: 220px;
+  height: 55px;
+}
+
+#introduce-company-container {
+  padding: 40px;
+  background-color: #fbfbfb;
+}
+
+.header-text {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #333e49;
+  margin-bottom: 20px;
+}
+.content-text {
+  font-size: 17px;
+  text-align: center;
+  color: #636277;
+  line-height: 30px;
+}
+
+#job-openings-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  background-color: #fff;
+}
+#job-seeking-img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  align-self: center;
+}
+
+#future-opportunities-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 60px;
+  background-color: #fff;
+}
+#left-text-container {
+  flex: 1;
+  padding-right: 50px;
+  font-size: 17px;
+  color: #636277;
+  line-height: 27px;
+}
+#left-text-container a {
+  text-decoration: underline;
+}
+#left-text-container a:link {
+  color: rgb(69, 69, 232);
+}
+#left-text-container a:visited {
+  color: green;
+}
+#left-text-container a:hover {
+  color: rgb(92, 173, 210);
+}
+#left-text-container a:active {
+  color: rgb(38, 115, 150);
+}
+#right-button-container {
+}
+
+#right-button-container > button {
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #255046;
+}
