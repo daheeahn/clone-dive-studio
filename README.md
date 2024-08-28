@@ -23,35 +23,35 @@
 
 - The Main page introduces the features of Mindset.
 
-<img src="./assets/preview/main-1.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-2.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-3.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-4.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-5.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-6.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-7.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-8.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-9.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-10.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-11.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-12.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/main-13.png" alt="Project Preview" width="900" height="300">
+<img src="./assets/preview/main-1.png" alt="Project Preview" width="800" height="350">
+<img src="./assets/preview/main-2.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-3.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-4.png" alt="Project Preview" width="800" height="350">
+<img src="./assets/preview/main-5.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-6.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-7.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-8.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-9.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-10.png" alt="Project Preview" width="800" height="300">
+<img src="./assets/preview/main-11.png" alt="Project Preview" width="800" height="400">
+<img src="./assets/preview/main-12.png" alt="Project Preview" width="800" height="350">
+<img src="./assets/preview/main-13.png" alt="Project Preview" width="800" height="350">
 
 ## 2) Shop Page
 
 - The Shop page offers Dive Studios merchandise for sale.
 
-<img src="./assets/preview/shop-1.png" alt="Project Preview" width="900" height="300">
-<img src="./assets/preview/shop-2.png" alt="Project Preview" width="900" height="300">
+<img src="./assets/preview/shop-1.png" alt="Project Preview" width="800" height="450">
+<img src="./assets/preview/shop-2.png" alt="Project Preview" width="800" height="450">
 
 ## 3) Join Now Page
 
 - The Join Now page highlights the membership features.
 
-<img src="./assets/preview/join-now-1.png" alt="Project Preview" width="900" height="300">
+<img src="./assets/preview/join-now-1.png" alt="Project Preview" width="800" height="300">
 
 ## 4) Career Page
 
 - The Career page introduces the talent pool of Dive Studios.
 
-<img src="./assets/preview/career-1.png" alt="Project Preview" width="900" height="300">
+<img src="./assets/preview/career-1.png" alt="Project Preview" width="800" height="500">
