@@ -28,11 +28,23 @@
   - Grid
 - ✅You can also see the details of the CSS I used through [🔗this link(To be added)](). Please check it out!
 
+## Project Structure
+
+```
+clone-mindset/
+├── assets/        # Contains images, fonts, and other media assets
+├── css/           # Contains CSS files for styling the website
+├── pages/         # Directory for additional HTML pages
+├── index.html     # The main HTML file for the website
+└── README.md      # Documentation file with project information and instructions
+```
+
 # Preview
 
-## 1) Main Page
+## 1) [Main Page](https://github.com/daheeahn/clone-mindset/blob/main/index.html)
 
 - The Main page introduces the features of Mindset.
+- You can access the other pages through the navigation at the top right.
 
 <img src="./assets/preview/main-1.png" alt="Project Preview" width="800" height="350">
 <img src="./assets/preview/main-2.png" alt="Project Preview" width="800" height="300">
@@ -48,20 +60,20 @@
 <img src="./assets/preview/main-12.png" alt="Project Preview" width="800" height="350">
 <img src="./assets/preview/main-13.png" alt="Project Preview" width="800" height="350">
 
-## 2) Shop Page
+## 2) [Shop Page](https://github.com/daheeahn/clone-mindset/blob/main/pages/shop.html)
 
 - The Shop page offers Dive Studios merchandise for sale.
 
 <img src="./assets/preview/shop-1.png" alt="Project Preview" width="800" height="450">
 <img src="./assets/preview/shop-2.png" alt="Project Preview" width="800" height="450">
 
-## 3) Join Now Page
+## 3) [Join Now Page](https://github.com/daheeahn/clone-mindset/blob/main/pages/join-now.html)
 
 - The Join Now page highlights the membership features.
 
 <img src="./assets/preview/join-now-1.png" alt="Project Preview" width="800" height="300">
 
-## 4) Career Page
+## 4) [Career Page](https://github.com/daheeahn/clone-mindset/blob/main/pages/career.html)
 
 - The Career page introduces the talent pool of Dive Studios.
 
